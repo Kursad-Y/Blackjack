@@ -31,6 +31,7 @@ public class Main {
         }
     }
     //This starts a new game.
+    // This line added from github.com
     public static void startNewGame(){
         if(deck.size() < 52){
             deck.clear();
