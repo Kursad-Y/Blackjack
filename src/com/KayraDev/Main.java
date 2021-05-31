@@ -30,7 +30,7 @@ public class Main {
             startNewGame();
         }
     }
-
+    //This starts a new game.
     public static void startNewGame(){
         if(deck.size() < 52){
             deck.clear();
